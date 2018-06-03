@@ -1,0 +1,69 @@
+.nav-item a:hover {
+        background-color: #006400;
+        cursor: pointer;
+}
+
+.nav-item.active {
+        background-color: #DAA520;
+}
+
+.form-control {
+    background-color: #DAA520;
+    color: #fff;
+}
+
+.form-control:focus {
+    background-color: #DAA520;
+    color: #fff;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #DAA520;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #006400;
+}
+
+.bg-banaran {
+  background-color: #008000;
+}
+
+.atas {
+    width: 75%;
+    font-family: "mustardo";
+    src:url(assets/font/mustardo.ttf);
+    color: #008000;
+}
+
+.rangka {
+    width: 75%;
+}
+
+.utama {
+    margin-top: 3%;
+}
+
+.back-link {
+    color: #008000;
+}
+
+.bg-lumayan {
+  background-color: #DCDCDC;
+}
+
+.rangka2 {
+    border-radius: 3%;
+}
+
+
+.judul {
+    color: #343a40;
+}
+
+.isi-atas {
+    padding-left: 3%;
+}
+
