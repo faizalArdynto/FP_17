@@ -1,8 +1,19 @@
 
+
+.komen {
+    margin-top: 5%;
+}
+
+#formkomen {
+    display: none;
+}
+
 .komentar {
     background-color: #fff;
+    color: black;
 }
 
 .komentar:focus {
     background-color: #fff;
+    color: black;
 }
